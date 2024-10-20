@@ -1,10 +1,10 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "Miranda Showcase",
+  "short_name": "Miranda",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "A super tagline for the mobile app",
+  "description": "Fai subito un tour della nostra scuola!",
   "scope": "/",
   "theme_color": "#efeeff",
   "background_color": "#efeeff"
